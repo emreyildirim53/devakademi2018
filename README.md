@@ -20,7 +20,7 @@ Network analysis için:
   
 >**Dip Not:** Elimizde hashlenmiş veri olduğundan sonuç konusunda şüpheliydim. Sonucu iyileştirmek için stopwords (Sık geçen veya değersiz kelimeler {ve,veya,bir,ile vb}) temizlenebilirdi). Birde otomobil ile otomobili farklı kelime olarak almış bulundum normalde bunlar tek bir kelimede **otomobil** de toplanmalıydı. Bu durum otomobilin değerini arttıracağından networkteki gücünüde arttıracaktı. Bağzı bağlar kopartılarakda network edge ve node ağırlıkları değiştirilebilir.
 ##### Graph.json içeriği
-[![Graph.json İçerik Görseli](img/grapjson.png)](https://nodesource.com/products/nsolid)
+[![Graph.json İçerik Görseli](img/graphjson.png)](https://nodesource.com/products/nsolid)
 
 
 ### Network Analysis
