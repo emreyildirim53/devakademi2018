@@ -6,7 +6,7 @@ Elde ettiğim veriyi öncelikle inceledim. Neler yapabilirim diye baktım. İlk 
 
   - Front end kısmında acaba reklam ekranın hangi kısmında daha tıklanabilir diye merak ettim. Örneğin sağ/sol/top bar mı? Yoksa ilanların arasında gizlenmiş bir şekilde bulunursa ilan görevi görür mü? Verinin yapısı gereği bu bilgiyi elde edemeyeceğim için yapamazdım.
   - Veri inceleme kısmında metin madenciliği ilan tıklamada etkili mi? Bu sorunun cevabını merak ettim. İşe koyuldum ve detaylı bilgiği aşağıda veriyor olacağım.
-  - Arta kalan zaman olursa eğer kullanıcıların özelliklerine göre filtreleyebileceğim reklamlar listesi oluşturacaktım. Mesela evli erkeklerin istedikleri ev,araba veya herhangi bir ikinci el eşya var mı? Daha çok kaç odalı ev alıyorlar. Evli TÜRK erkeği gerçekten dobloya düşkün mü? :D
+  - Arta kalan zaman olursa eğer kullanıcıların özelliklerine göre filtreleyebileceğim reklamlar listesi oluşturacaktım. Hangi özellikteki kullanıcılar hangi kelimelere odaklanıyor? Mesela evli erkeklerin istedikleri ev,araba veya herhangi bir ikinci el eşya var mı? Daha çok kaç odalı ev alıyorlar. Evli TÜRK erkeği gerçekten dobloya düşkün mü? :D
  
 
 # Veri park işlemi 
