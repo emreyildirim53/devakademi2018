@@ -9,7 +9,7 @@ Elde ettiğim veriyi öncelikle inceledim. Neler yapabilirim diye baktım. İlk 
   - Arta kalan zaman olursa eğer kullanıcıların özelliklerine göre filtreleyebileceğim reklamlar listesi oluşturacaktım. Hangi özellikteki kullanıcılar hangi kelimelere odaklanıyor? Mesela evli erkeklerin istedikleri ev,araba veya herhangi bir ikinci el eşya var mı? Daha çok kaç odalı ev alıyorlar. Evli TÜRK erkeği gerçekten dobloya düşkün mü? :D
  
 
-# Veri park işlemi 
+# Veri hazırlana işlemi 
 
 Veriyi görselleştirebilmem için öncelikle belli bir formata sokmam gerekiyordu. Kullanacağım görselleştirme tekniği bubblechart veya network analysis olacaktı. Network analysis genellikte sosyal ağ analizlerinde kullanılıyor. Arkadaş olanlar veya birlikte zaman geçirenler gibi. Bende acaba birlikte kullanılan kelimeler reklama tıklamada etkili mi? Veya reklam başlığı tıklanmayı arttırmak için nasıl kurgulanmalı.
 Network analysis için:
