@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="shortcut icon" href="#" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+</head>
+<body >
+        <div id="verticalMenu">
+            <button id="showIdea" onclick="showIdeaButton(this);">
+                <img src="img/openList.png" title="Fikir listesini göster." class="openList">
+            </button>
+            <!--<img src="img/setting_category.png" title="Kategori ayarlarını göster." class="settings">!-->
+        </div>
+        <div id="ideaPanel">
+            <button id="showIdeaClose" onclick="showIdeaButton(this);">
+                <div id="countOfIdea"></div>
+                <img src="img/closeList.png" title="Fikir listesini kapat." class="closeList">
+            </button>
+            <div id="dropdownmenu"></div>
+            <div class="hasIdeas">Seçtiğiniz kelimeleri aynı anda içeren bir reklam texti bulunamadı.</div>
+
+            <div id="tags"><ul></ul></div>
+            <div id="searchbar">
+                <form >
+                    <div class="search-wrapper">
+                        <div class="input-holder">
+                            <input type="text" class="search-input" placeholder="Aradığınız kelimeyi giriniz." />
+                            <button class="search-icon" ><span></span></button>
+                        </div>
+                        <span class="close"></span>
+                        <div class="result-container"></div>
+                    </div>
+                </form>
+            </div>
+     </div>
+
+
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="js/script.js"></script>
+<script src="js/mark.js"></script>
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script type="text/javascript" src="js/jLouvain.js"></script>
+</body>
